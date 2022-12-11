@@ -13,3 +13,18 @@ C:\Users\rafal\source\repos\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\refint\
 C:\Users\rafal\source\repos\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\CalculoNota.pdb
 C:\Users\rafal\source\repos\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\CalculoNota.genruntimeconfig.cache
 C:\Users\rafal\source\repos\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\ref\CalculoNota.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\bin\Debug\net6.0\CalculoNota.exe
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\bin\Debug\net6.0\CalculoNota.deps.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\bin\Debug\net6.0\CalculoNota.runtimeconfig.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\bin\Debug\net6.0\CalculoNota.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\bin\Debug\net6.0\CalculoNota.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\CalculoNota.csproj.AssemblyReference.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\CalculoNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\CalculoNota.AssemblyInfoInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\CalculoNota.AssemblyInfo.cs
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\CalculoNota.csproj.CoreCompileInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\CalculoNota.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\refint\CalculoNota.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\CalculoNota.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\CalculoNota.genruntimeconfig.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AvaliacaoGilmar\CalculoNota\obj\Debug\net6.0\ref\CalculoNota.dll

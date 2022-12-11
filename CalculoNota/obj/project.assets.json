@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj",
+      "projectUniqueName": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj",
       "projectName": "CalculoNota",
-      "projectPath": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj",
+      "projectPath": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj",
       "packagesPath": "C:\\Users\\rafal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\CalculoNota\\obj\\",
+      "outputPath": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\CalculoNota\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafal\\AppData\\Roaming\\NuGet\\NuGet.Config",

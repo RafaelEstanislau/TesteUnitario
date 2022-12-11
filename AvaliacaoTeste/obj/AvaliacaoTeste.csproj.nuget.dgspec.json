@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\AvaliacaoTeste\\AvaliacaoTeste.csproj": {}
+    "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\AvaliacaoTeste\\AvaliacaoTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\AvaliacaoTeste\\AvaliacaoTeste.csproj": {
+    "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\AvaliacaoTeste\\AvaliacaoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\AvaliacaoTeste\\AvaliacaoTeste.csproj",
+        "projectUniqueName": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\AvaliacaoTeste\\AvaliacaoTeste.csproj",
         "projectName": "AvaliacaoTeste",
-        "projectPath": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\AvaliacaoTeste\\AvaliacaoTeste.csproj",
+        "projectPath": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\AvaliacaoTeste\\AvaliacaoTeste.csproj",
         "packagesPath": "C:\\Users\\rafal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\AvaliacaoTeste\\obj\\",
+        "outputPath": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\AvaliacaoTeste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj": {
-                "projectPath": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj"
+              "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj": {
+                "projectPath": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj": {
+    "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj",
+        "projectUniqueName": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj",
         "projectName": "CalculoNota",
-        "projectPath": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj",
+        "projectPath": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\CalculoNota\\CalculoNota.csproj",
         "packagesPath": "C:\\Users\\rafal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\CalculoNota\\obj\\",
+        "outputPath": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\CalculoNota\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafal\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,5 +1,0 @@
-C:\Users\rafal\source\repos\AvaliacaoGilmar\AvaliacaoGilmar\obj\Debug\net6.0\AvaliacaoGilmar.csproj.AssemblyReference.cache
-C:\Users\rafal\source\repos\AvaliacaoGilmar\AvaliacaoGilmar\obj\Debug\net6.0\AvaliacaoGilmar.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rafal\source\repos\AvaliacaoGilmar\AvaliacaoGilmar\obj\Debug\net6.0\AvaliacaoGilmar.AssemblyInfoInputs.cache
-C:\Users\rafal\source\repos\AvaliacaoGilmar\AvaliacaoGilmar\obj\Debug\net6.0\AvaliacaoGilmar.AssemblyInfo.cs
-C:\Users\rafal\source\repos\AvaliacaoGilmar\AvaliacaoGilmar\obj\Debug\net6.0\AvaliacaoGilmar.csproj.CoreCompileInputs.cache

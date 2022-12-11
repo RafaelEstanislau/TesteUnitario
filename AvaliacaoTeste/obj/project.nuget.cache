@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgdmusRhf4+uUiKEGxzs8SRAo9XDP4r1ap2765MNCVUa8ZKSxvRRbEbrahHruRbkDrJZl8z0UyTMJsTnzM3xRg==",
+  "dgSpecHash": "R6txSXT8jYHSEIsITZPy0UhSfYU3+v5jUP0FRXCzyMuXPEAno60L4rcLt6sdTGyTi2yH1V42YEMRDRHORa82OQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafal\\source\\repos\\AvaliacaoGilmar\\AvaliacaoTeste\\AvaliacaoTeste.csproj",
+  "projectFilePath": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AvaliacaoGilmar\\AvaliacaoTeste\\AvaliacaoTeste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafal\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\rafal\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
